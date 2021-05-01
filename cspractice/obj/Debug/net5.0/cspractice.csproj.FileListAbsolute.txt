@@ -1,0 +1,15 @@
+/Users/mgkibria/Documents/cspractice/bin/Debug/net5.0/cspractice.deps.json
+/Users/mgkibria/Documents/cspractice/bin/Debug/net5.0/cspractice.runtimeconfig.json
+/Users/mgkibria/Documents/cspractice/bin/Debug/net5.0/cspractice.runtimeconfig.dev.json
+/Users/mgkibria/Documents/cspractice/bin/Debug/net5.0/cspractice.dll
+/Users/mgkibria/Documents/cspractice/bin/Debug/net5.0/ref/cspractice.dll
+/Users/mgkibria/Documents/cspractice/bin/Debug/net5.0/cspractice.pdb
+/Users/mgkibria/Documents/cspractice/obj/Debug/net5.0/cspractice.csprojAssemblyReference.cache
+/Users/mgkibria/Documents/cspractice/obj/Debug/net5.0/cspractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mgkibria/Documents/cspractice/obj/Debug/net5.0/cspractice.AssemblyInfoInputs.cache
+/Users/mgkibria/Documents/cspractice/obj/Debug/net5.0/cspractice.AssemblyInfo.cs
+/Users/mgkibria/Documents/cspractice/obj/Debug/net5.0/cspractice.csproj.CoreCompileInputs.cache
+/Users/mgkibria/Documents/cspractice/obj/Debug/net5.0/cspractice.dll
+/Users/mgkibria/Documents/cspractice/obj/Debug/net5.0/ref/cspractice.dll
+/Users/mgkibria/Documents/cspractice/obj/Debug/net5.0/cspractice.pdb
+/Users/mgkibria/Documents/cspractice/obj/Debug/net5.0/cspractice.genruntimeconfig.cache
